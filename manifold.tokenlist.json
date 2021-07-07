@@ -1,0 +1,189 @@
+{
+  "name": "Manifold Finance",
+  "logoURI": "https://raw.githubusercontent.com/manifoldfinance/token-list/master/assets/manifold-finance.svg",
+  "keywords": ["manifold"],
+  "timestamp": "2021-07-07T13:12:00.000+00:00",
+  "tokens": [
+    {
+      "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+      "chainId": 1,
+      "name": "SushiToken",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png"
+    },
+    {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1,
+      "name": "TetherUSD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://tokens.1inch.exchange/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+    },
+    {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "chainId": 1,
+      "name": "WrappedEther",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+      "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+      "chainId": 1,
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0xc00e94cb662c3520282e6f5717214004a7f26888.png"
+    },
+    {
+      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+      "chainId": 1,
+      "name": "SynthetixNetworkToken",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.png"
+    },
+    {
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "chainId": 1,
+      "name": "ChainLink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    },
+    {
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "chainId": 1,
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
+    },
+    {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "chainId": 1,
+      "name": "DaiStablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+    },
+    {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 1,
+      "name": "USDCoin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://tokens.1inch.exchange/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+    },
+    {
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "chainId": 1,
+      "name": "WrappedBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://tokens.1inch.exchange/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
+    },
+    {
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "chainId": 1,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png"
+    },
+    {
+      "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+      "chainId": 1,
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png"
+    },
+    {
+      "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+      "chainId": 1,
+      "name": "SushiBar",
+      "symbol": "xSUSHI",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x8798249c2e607446efb7ad49ec89dd1865ff4272.png"
+    },
+    {
+      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+      "chainId": 1,
+      "name": "AaveToken",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png"
+    },
+    {
+      "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+      "chainId": 1,
+      "name": "Alchemix",
+      "symbol": "ALCX",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0xdbdb4d16eda451d0503b854cf79d55697f90c8df.png"
+    },
+    {
+      "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+      "chainId": 1,
+      "name": "ConvexToken",
+      "symbol": "CVX",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b.png"
+    },
+    {
+      "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+      "chainId": 1,
+      "name": "CurveDAOToken",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0xd533a949740bb3306d119cc777fa900ba034cd52.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f",
+      "name": "Interest Bearing Bi",
+      "symbol": "IBBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15500/thumb/ibbtc.png?1621077589"
+    },
+    {
+      "chainId": 1,
+      "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+      "name": "Convex CRV",
+      "symbol": "CVXCRV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15586/thumb/convex-crv.png?1621255952"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0309c98b1bffa350bcb3f9fb9780970ca32a5060",
+      "name": "BasketDAO DeFi Inde",
+      "symbol": "BDI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14664/thumb/BDI_200.png?1621851285"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ea3b5b4ec044b70375236a281986106457b20ef",
+      "name": "Delta Financial",
+      "symbol": "DELTA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14564/thumb/Delta_logo.png?1619067341"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a",
+      "name": "Yearn Compounding v",
+      "symbol": "YVBOOST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15152/thumb/yvBOOST.png?1619978216"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
