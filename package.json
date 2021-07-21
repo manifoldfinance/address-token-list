@@ -1,0 +1,26 @@
+{
+  "name": "manifold-tokenlist",
+  "version": "1.0.0",
+  "description": "See https://github.com/Uniswap/token-lists or https://tokenlists.org/.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": " node --experimental-modules --experimental-json-modules ./index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/token-list.git"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manifoldfinance/token-list/issues"
+  },
+  "homepage": "https://github.com/manifoldfinance/token-list#readme",
+  "dependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.25",
+    "ajv": "^8.6.2",
+    "ajv-formats": "^2.1.0"
+  },
+  "devDependencies": {}
+}
