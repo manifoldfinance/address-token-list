@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-https://rawcdn.githack.com/manifoldfinance/token-list/v1.0.0/src/available_markets.json
+https://rawcdn.githack.com/manifoldfinance/token-list/v1.1.0/src/available_markets.json
 ```
 
 ## Additional Information
