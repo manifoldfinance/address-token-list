@@ -1,5 +1,7 @@
 # Manifold Token List
 
+!!! Tokenlists are no longer required for usage !!!
+
 ## Usage
 
 ```
