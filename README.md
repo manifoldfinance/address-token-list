@@ -1,8 +1,19 @@
-# Manifold Token List
+# Manifold Address and Token List
 
-!!! Tokenlists are no longer required for usage !!!
+> EOA/Multisig Addresses and Tokenlists 
 
-## Usage
+## MultiSig
+
+[eth:0x72CBdEaAdddD14Ec95b92995933CeC69566650f0](eth:0x72CBdEaAdddD14Ec95b92995933CeC69566650f0) <br/>
+[https://etherscan.io/address/0x72CBdEaAdddD14Ec95b92995933CeC69566650f0](https://etherscan.io/address/0x72CBdEaAdddD14Ec95b92995933CeC69566650f0)
+<br/>
+<br/>
+[eth:0xB0310ba0c92B8a6617D291389f1Cc7E17D17847d](eth:0xB0310ba0c92B8a6617D291389f1Cc7E17D17847d) <br/>
+[https://etherscan.io/address/0xB0310ba0c92B8a6617D291389f1Cc7E17D17847d](https://etherscan.io/address/0xB0310ba0c92B8a6617D291389f1Cc7E17D17847d)
+
+
+
+## Tokenlist Preferred Markets
 
 ```
 https://rawcdn.githack.com/manifoldfinance/token-list/v1.1.0/src/available_markets.json
